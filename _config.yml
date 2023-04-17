@@ -5,5 +5,5 @@ plugins:
 title: "DrEmixam"
 description: "Wesh wesh les amis"
 
-show_downloads: true
-#google_analytics: [Your Google Analytics tracking ID]
+show_downloads: false
+google_analytics: "G-WMJDZNQ5R0"
